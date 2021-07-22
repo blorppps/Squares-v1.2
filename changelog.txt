@@ -1,0 +1,13 @@
+Version 1.0:
+Added Player
+Added Pacer Enemy
+Added Bouncer Enemy
+Added Chaser Enemy
+Added Coin
+
+Version 1.2:
+Added Launcher
+Added Hard Mode, which increases the speed of the chaser enemy by 50%
+Added End Screen
+Added Clock to limit game speed
+Added Icon and Title

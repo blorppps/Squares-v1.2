@@ -1,0 +1,12 @@
+WASD or arrows to move
+
+Created By Yale Zhang
+
+Modules Used:
+keyboard
+pygame
+random
+math
+time
+
+Executable created using pyinstaller
